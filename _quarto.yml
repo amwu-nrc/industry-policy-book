@@ -1,0 +1,40 @@
+project:
+  type: book
+  output-dir: _output
+
+book:
+  title: "Industry Policy"
+  author:
+    - "Gemma Beale"
+    - "Hamish Gamble"
+  date: "18/06/2025"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - economic-complexity.qmd
+    - just-transitions.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    toc: true
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+  docx: 
+    toc: true
+     
+
+editor: visual
+
+custom-callout:
+  bolsh:
+    icon: true
+    icon-symbol: "fa-hand-fist"
+    color: "red"
+
