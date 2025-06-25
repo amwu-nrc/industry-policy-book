@@ -1,10 +1,8 @@
 project:
   type: book
   output-dir: _output
-  
-execute: 
-  freeze: auto
-  echo: false
+execute:
+  freeze: true
 
 book:
   title: "Industry Policy"
