@@ -4,6 +4,7 @@ project:
   
 execute: 
   freeze: auto
+  echo: false
 
 book:
   title: "Industry Policy"
@@ -14,8 +15,10 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - economic-complexity.qmd
     - just-transitions.qmd
+    - economic-complexity.qmd
+    - procurement.qmd
+    - future-of-work.qmd
     - summary.qmd
     - references.qmd
 
@@ -25,6 +28,7 @@ format:
   html:
     fig-width: 6
     fig-asp: 0.618
+    fig-format: svg
     toc: true
     theme:
       - cosmo
