@@ -166,7 +166,7 @@ ggplot(whyalla_opps, aes(x = density, y = cog, col = anzsic_division)) +
 
 ```
 
-The relationship between benefit and feasibility is negative - activities which are more beneficial will be more difficult to pursue. All diversification opportunities are shown below in
+The relationship between benefit and feasibility is negative - activities which are more beneficial will be more difficult to pursue. All diversification opportunities are shown below in @tbl-opportunities.
 
 ```{r}
 #| label: tbl-opportunities
@@ -179,26 +179,34 @@ whyalla_opps |>
 
 ```
 
--   Diversification analysis is the first and most basic method.
+Turning the activities identified above into opportunities requires an in depth qualitative and qualitative analysis of their suitability, including:
 
--   Given a suite of existing capabilities, what related activities can be prioritised to best make use of the capabilities.
+-   current and future strengths and weaknesses within the sector
 
--   Identify where those related activities can be performed.
+<!-- -->
 
-### Opportunity Identification
+-   competitors and suppliers
 
--   Opportunity identification takes the diversification results and analyses:
+-   anticipated international market conditions and industry demand characteristics
 
-    -   current and future strengths and weaknesses within the sector
+-   barriers to entry and minimum efficient scale issues
 
-    -   competitors and suppliers
+-   the size and economic significance of the opportunity
 
-    -   anticipated international market conditions and industry demand characteristics
+-   the most important elements of the value chain to capture
 
-    -   barriers to entry and minimum efficient scale issues
+-   the alignment between the opportunities and strategic, regional, or national goals and priorities.
 
-    -   the size and economic significance of the opportunity
+## Link to Just Transitions
 
-    -   the most important elements of the value chain to capture
+The Just Transitions agenda is about creating jobs for workers in a region which is facing industry decline or industry closure. It is important to create jobs which are commensurate to existing jobs - in skills required, in remuneration, in security and quality.
 
-    -   the alignment between the opportunities and strategic, regional, or national goals and priorities.
+Industry transition plans should be tailored to the industry that is closing, and the region that it currently operates. This requires an understanding of the current workforce, and the similarity (or otherwise) of opportunities available for displaced workers.
+
+Economic complexity analysis provides a quantitative base for understanding existing capabilities, and the similarities between these capabilities and potential opportunities.
+
+With proper planning, industry closure can be an opportunity for regional development, industrial development, and can further national strategic goals such as decarbonisation.
+
+::: callout-note
+You need to understand the relationship the relationship between different jobs in the region, and how best to apply the skills available in these jobs into new areas of strategic, regional, or national importance.
+:::
