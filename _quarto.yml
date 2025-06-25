@@ -1,6 +1,9 @@
 project:
   type: book
   output-dir: _output
+  
+execute: 
+  freeze: auto
 
 book:
   title: "Industry Policy"
@@ -20,13 +23,19 @@ bibliography: references.bib
 
 format:
   html:
+    fig-width: 6
+    fig-asp: 0.618
     toc: true
     theme:
       - cosmo
       - brand
   pdf:
+    fig-width: 6
+    fig-asp: 0.618
     documentclass: scrreprt
   docx: 
+    fig-width: 6
+    fig-asp: 0.618
     toc: true
      
 
