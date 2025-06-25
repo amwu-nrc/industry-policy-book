@@ -233,7 +233,7 @@ div.csl-indent {
 <div id="fig-complexity-index" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-complexity-index-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="economic-complexity_files/figure-html/fig-complexity-index-1.png" class="img-fluid figure-img" width="672">
+<img src="economic-complexity_files/figure-html/fig-complexity-index-1.png" class="img-fluid figure-img" width="576">
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-complexity-index-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure&nbsp;2.1: Economic Complexity Index, Australia, Canada, Germany
@@ -270,7 +270,48 @@ Note
 </div>
 <section id="diversification-analysis-and-opportunity-identification" class="level3" data-number="2.2.1">
 <h3 data-number="2.2.1" class="anchored" data-anchor-id="diversification-analysis-and-opportunity-identification"><span class="header-section-number">2.2.1</span> Diversification Analysis and Opportunity Identification</h3>
-<p>Diversification analysis is the first and most basic method available. It looks at the existing capabilities in a region, and identifies what related activities can be prioritised to best make use of these capabilities. For example, consider the economic complexity of a region like Whyalla.</p>
+<p>Diversification analysis is the first and most basic method available. It looks at the existing capabilities in a region, and identifies what related activities can be prioritised to best make use of these capabilities. For example, consider the economic complexity of a region like Whyalla. <a href="#tbl-capabilities" class="quarto-xref">Table&nbsp;<span>2.1</span></a> shows the top ten industries in which Whyalla has an employment capability.</p>
+<div id="tbl-capabilities" class="cell quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-capabilities-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;2.1: Employment capabilities, Whyalla
+</figcaption>
+<div aria-describedby="tbl-capabilities-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="cell-output cell-output-stdout">
+<pre><code># A tibble: 10 × 10
+   lga     indp  count  year   rca product_complexity_i…¹ country_complexity_i…²
+   &lt;chr&gt;   &lt;chr&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;                  &lt;dbl&gt;                  &lt;dbl&gt;
+ 1 Whyalla Natu…     5  2022 13.3                  -0.126                -0.0444
+ 2 Whyalla Basi…   139  2022 10.3                  -0.958                -0.0444
+ 3 Whyalla Shee…    11  2022  7.02                  0.208                -0.0444
+ 4 Whyalla Wate…     8  2022  6.64                  0.134                -0.0444
+ 5 Whyalla Wast…    40  2022  5.14                 -0.883                -0.0444
+ 6 Whyalla Meta…     9  2022  4.76                 -0.759                -0.0444
+ 7 Whyalla Wate…    36  2022  4.41                 -0.321                -0.0444
+ 8 Whyalla Oil …    45  2022  4.33                 -1.07                 -0.0444
+ 9 Whyalla Othe…    38  2022  4.28                 -1.47                 -0.0444
+10 Whyalla Basi…     5  2022  3.93                 -0.417                -0.0444
+# ℹ abbreviated names: ¹​product_complexity_index, ²​country_complexity_index
+# ℹ 3 more variables: complexity_outlook_index &lt;dbl&gt;, cog &lt;dbl&gt;, density &lt;dbl&gt;</code></pre>
+</div>
+</div>
+</figure>
+</div>
+<p>Economic complexity analysis reveals how “close” other activities are to the existing set of capabilities, through a measure called <em>density.</em></p>
+<div class="cell">
+<div class="cell-output-display">
+<div id="fig-density-cog" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-density-cog-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="economic-complexity_files/figure-html/fig-density-cog-1.png" class="img-fluid figure-img" width="576">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-density-cog-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;2.2: Economic benefit
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
 <ul>
 <li><p>Diversification analysis is the first and most basic method.</p></li>
 <li><p>Given a suite of existing capabilities, what related activities can be prioritised to best make use of the capabilities.</p></li>
