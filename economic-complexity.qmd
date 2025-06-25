@@ -4,6 +4,7 @@ author: "Hamish Gamble"
 execute: 
   echo: false
   warning: false
+  message: false
 ---
 
 # Economic Complexity
@@ -11,10 +12,13 @@ execute:
 ```{r}
 #| label: setup
 library(ecomplexity)
+library(gt)
+library(ggrepel)
+library(strayr)
+library(reportabs)
 library(dplyr)
 library(ggplot2)
 library(directlabels)
-library(cowplot)
 
 rankings <- read_complexitydata("atlas_countries", export_dir = "data")
 sitc_rank <- read_complexitydata("atlas_eci_sitc", export_dir = "data") |> 
@@ -57,6 +61,9 @@ Outside of the broader trend of de-industrialisation, the question remains: what
 ```{r}
 #| label: fig-complexity-index
 #| fig-cap: "Economic Complexity Index, Australia, Canada, Germany"
+#| out-width: 70%
+
+cols <- unname(c(nrc_cols("Soft Black"), nrc_cols("AMWU Orange"), nrc_cols("AMWU Blue")))
 
 p <- sitc_rank |> 
   filter(location_code %in% c("AUS", "CAN", "DEU")) |> 
@@ -66,14 +73,14 @@ p <- sitc_rank |>
   ggplot(aes(x = year, y = eci_rank)) + 
   geom_line(aes(col = location_code)) +
   scale_colour_manual(breaks = c("Germany", "Canada", "Australia"),
-                      values = c("black", "red", "blue")) +
+                      values = cols) +
   scale_y_reverse(limits = c(105,0),
                   breaks = c(1, 25, 50, 75, 105),
                   labels = c(1, 25, 50, 75, 105)) +
   guides(colour = "none") + 
   labs(x = NULL,
        y = "Economic Complexity Index (Rank)") +
-  theme_cowplot()
+  theme_nrc()
 
 direct.label(p, "last.qp") +
   scale_x_continuous(limits = c(1995, 2025))
@@ -104,9 +111,11 @@ A comprehensive industry policy should be seen as an industrial strategy. The fi
 
 ### Diversification Analysis and Opportunity Identification
 
-Diversification analysis is the first and most basic method available. It looks at the existing capabilities in a region, and identifies what related activities can be prioritised to best make use of these capabilities. For example, consider the economic complexity of a region like Whyalla.
+Diversification analysis is the first and most basic method available. It looks at the existing capabilities in a region, and identifies what related activities can be prioritised to best make use of these capabilities. For example, consider the economic complexity of a region like Whyalla. @tbl-capabilities shows the top ten industries in which Whyalla has an employment capability.
 
 ```{r}
+#| label: tbl-capabilities
+#| tbl-cap: Employment capabilities, Whyalla
 lga_indp3 <- read_complexitydata("lga_indp3", export_dir = "data") |> 
   mutate(lgat = sum(count),.by = lga) |> 
   mutate(it = sum(count), .by = indp) |> 
@@ -119,6 +128,55 @@ complexity <- calculate_complexity(lga_indp3,
                                    product = "indp",
                                    value = "count",
                                    year = 2022)
+
+complexity |>
+  filter(lga == "Whyalla") |> 
+  slice_max(rca, n = 10) |> 
+  gt()
+```
+
+Economic complexity analysis reveals how "close" other activities are to the existing set of capabilities, through a measure called *density.* @fig-density-cog shows the relationship between proximity to unexplored manufacturing activities, and the benefit to Whyalla's complexity from pursuing them.
+
+```{r}
+#| label: fig-density-cog
+#| fig-cap: Economic benefit 
+
+whyalla_opps <- complexity |> 
+  filter(lga == "Whyalla", 
+         rca < 1,
+         count > 0) |> 
+  inner_join(distinct(anzsic2006, anzsic_division, anzsic_group), by = c("indp" = "anzsic_group")) |> 
+  filter(anzsic_division == "Manufacturing") |> 
+  mutate(label = case_when(
+    cog == max(cog) ~ indp,
+    density == max(density) ~ indp,
+    TRUE ~ NA_character_
+  ))
+
+ggplot(whyalla_opps, aes(x = density, y = cog, col = anzsic_division)) + 
+  geom_point() +
+  geom_hline(aes(yintercept = 0)) + 
+  labs(x = "Feasibility",
+       y = "Benefit",
+       title = "Manufacturing Opportunities: Whyalla") + 
+  geom_label_repel(min.segment.length = 2, 
+                   aes(label = label)) +
+  scale_colour_nrc() + 
+  theme_nrc()
+
+```
+
+The relationship between benefit and feasibility is negative - activities which are more beneficial will be more difficult to pursue. All diversification opportunities are shown below in
+
+```{r}
+#| label: tbl-opportunities
+#| tbl-cap: Diversification Opportunities for Whyalla
+
+whyalla_opps |> 
+  select(indp, count, rca, cog, density) |> 
+  gt()
+  
+
 ```
 
 -   Diversification analysis is the first and most basic method.
