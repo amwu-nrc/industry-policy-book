@@ -14,10 +14,24 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - just-transitions.qmd
-    - economic-complexity.qmd
-    - procurement.qmd
-    - future-of-work.qmd
+    - part: planning.qmd
+      chapters:
+      - just-transitions.qmd
+      - economic-complexity.qmd
+      - procurement.qmd
+    - part: future-of-work.qmd
+      chapters:
+      - steel-aluminium.qmd
+      - wind-tower-construction.qmd
+      - laboratories.qmd
+      - aviation.qmd
+      - defence.qmd
+      - roadside-assist.qmd
+      - construction-supply-chains.qmd
+      - mine-servicing.qmd
+      - food.qmd
+      - iron-and-foundries.qmd
+      - rail.qmd
     - summary.qmd
     - references.qmd
 
