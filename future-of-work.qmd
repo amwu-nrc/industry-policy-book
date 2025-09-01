@@ -1,1 +1,21 @@
 # Future of Work
+
+::: callout-note
+Emerging industries will replace, or supplement existing industries. The net-zero transition necessitates the closure of some industries (coal and gas fired energy generation), and production changes for others (direct reduction of steel).
+:::
+
+The way in which we work is changing. The manufacturing industry in particular faces disruption from two directions:
+
+-   decarbonisation and net zero requires energy and carbon intensive manufacturing processes to transition into using renewable generated electricity, such as in the aluminium industry, or a change in process to no longer require carbon as an input, such as in the iron and steel industry.
+
+-   the development, adoption, and diffusion of advanced manufacturing technologies, such as digitisation, robotics, automation into manufacturing processes changes the kind of work being done on the shop floor.
+
+Understanding the impact that these disruptions have on occupations, skill requirements, and employment is important to:
+
+-   build organising capacity and capability in emerging sectors and;
+
+-   know whether our existing rules will be suitable to get coverage in emerging sectors, or if not, to get a head start in what rule changes are needed.
+
+## Emerging Sectors
+
+The following sectors have been identified as target industries for further investigation
