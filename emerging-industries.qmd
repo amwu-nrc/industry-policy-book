@@ -1,0 +1,45 @@
+# Emerging Industries
+
+```{r}
+#| label: setup
+
+
+```
+
+The following section outlines opportunities for emerging sectors to provide strong growth and deliver solid outcomes, especially identifying the use of tools such as multi-employer bargaining and precinct/place based work.
+
+A short brief has been prepared for each identified industry - covering:
+
+-   is the industry in growth or decline?
+
+-   what and where are the growth opportunities?
+
+-   are there opportunities to use multi-employer bargaining, same job same pay or other tools?
+
+-   is there a link to Future Made in Australia?
+
+-   what else does your team think is worth considering?
+
+The **industries** covered are:
+
+-   Steel/aluminium
+
+-   Wind tower construction
+
+-   Laboratories 
+
+-   Aviation
+
+-   Roadside assist
+
+-   Defence
+
+-   Construction supply chains
+
+-   Mine servicing
+
+-   Food
+
+-   Iron – bringing in foundries 
+
+-   Rail
