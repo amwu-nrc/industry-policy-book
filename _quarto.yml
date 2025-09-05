@@ -3,7 +3,8 @@ project:
   output-dir: _output
 execute:
   freeze: true
-
+top-level-division: part
+number-sections: true
 book:
   title: "Industry Policy"
   author:
@@ -19,7 +20,8 @@ book:
       - just-transitions.qmd
       - economic-complexity.qmd
       - procurement.qmd
-    - part: future-of-work.qmd
+      - future-of-work.qmd
+    - part: emerging-industries.qmd
       chapters:
       - steel-aluminium.qmd
       - wind-tower-construction.qmd

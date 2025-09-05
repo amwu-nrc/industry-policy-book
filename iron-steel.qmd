@@ -1,8 +1,6 @@
-# Steel and Aluminium
+# Iron and Steel
 
 ## Industry Overview
-
-### Steel
 
 Steel manufacturing in Australia is captured primarily by the ANZSIC groups:
 
@@ -12,35 +10,6 @@ Steel manufacturing in Australia is captured primarily by the ANZSIC groups:
 
 -   Basic Ferrous Metal Product Manufacturing
 
-Employment in these industries is shown below in @fig-employment-steel
-
-```{r}
-#| label: fig-employment-steel
-#| fig-cap: Employment by Industry, full-time employment, Australia 
-
-library(reportabs)
-library(ggplot2)
-library(tidyverse)
-
-industry_employment <- read_absdata("industry_employment", export_dir = "data")
-
-industry_employment |> 
-  filter(indicator == "Employed full-time") |> 
-  group_by(anzsic_group, date) |> 
-  summarise(value = sum(value),
-            .groups = "drop") |> 
-  filter(anzsic_group %in% c("Iron and Steel Forging", "Basic Ferrous Metal Manufacturing", "Basic Ferrous Metal Product Manufacturing")) |> 
-  ggplot(aes(x = date, y = value, col = anzsic_group)) + 
-  scale_colour_nrc() +
-  scale_x_date() + 
-  scale_y_continuous(labels = scales::label_comma()) + 
-  geom_line() + 
-  theme_nrc(legend = "top") +
-  labs(x = NULL,
-       y = NULL)
-
-```
-
 -   Iron Smelting and Steel production is dominated by BlueScope Steel, who had almost 50% of the market share in 2025.
 
 Overall, the iron and steel industries rely on demand in the residential construction, mining, vehicles, and infrastructure sectors to maintain revenue stability. All aspects of the industry are facing increasing pressures from low-cost imports, especially in the face of rising input costs in Australia. Additional uncertainty surrounding international trade policy clouds future investment decisions. Within the steel manufacturing and structural steel fabricating industries, pressures from automation and AI adoption have reduced wage costs and impacted the labour market. Future revenue growth in these sectors may rely on increased demand for green steel – indicating the importance for local manufacturers to invest in these production technologies now.
@@ -49,23 +18,19 @@ Both the iron and steel casting and forging industries have faced declining reve
 
 However, future growth is predicted as population growth increases pressure on existing infrastructure – increasing demand for multi-unit apartments, townhouses, and railway equipment. The completion of existing large infrastructure projects will dampen future sales without a strong pipeline of additional work. Finally, there is an opportunity through increased demand for wind farm construction to support the iron and steel forging industry.
 
-### Aluminium
-
--   The aluminium industry is nominally comprised of:
-
-    -   Aluminium Smelting
-
-    -   Alumina Production
-
-    -   Aluminium Rolling, Drawing and Extruding
-
-The aluminium industry in Australia comprises the entire supply chain from Aluminium ore through to manufactured aluminium. These two industries employ 6,853 and 3,245 people respectively. products.
-
-Financial analysis from IBISWorld indicates that the Alumina Production industry in Australia is worth \$6.7 billion, employing more than 6,800 employees, across only three businesses.  Aluminium smelting is a less concentrated industry, worth \$6.8 billion, employing 3,245 employees across 57 businesses.
-
 ## Opportunities
 
 what and where are the opportunities for growth?
+
+-   investment is heading towards electric arc furnaces as replacements for blast furnaces. These use significant amounts of electricity, but are more modern, and more efficient, and should replace old/under-invested blast furnaces.
+
+-   An electric arc furnace also opens the opportunity for manufacturing low-carbon steel. Because you can power the furnace with renewable energy. An electric arc furnace can also use 100% recyclced scrape steel as an input - like what has been set-up in Collie, WA.
+
+-   In-place upgrading of blast furnaces to electric arc furnaces probably requires closure of plants. In Wales at Tata Steel, the transition shut down production for about 2 years, resulting in about 2000 people losing their job.
+
+-   In the UK, a plan to replace two blast furnaces at British Steel Scunthorpe is estimated to impact up to 2,000 steel workers.
+
+-   These investments have cost over 1.25bn pounds each.
 
 ### Legislation
 
