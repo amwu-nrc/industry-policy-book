@@ -23,7 +23,8 @@ book:
       - future-of-work.qmd
     - part: emerging-industries.qmd
       chapters:
-      - steel-aluminium.qmd
+      - iron-steel.qmd
+      - aluminium.qmd
       - wind-tower-construction.qmd
       - laboratories.qmd
       - aviation.qmd
@@ -32,7 +33,6 @@ book:
       - construction-supply-chains.qmd
       - mine-servicing.qmd
       - food.qmd
-      - iron-and-foundries.qmd
       - rail.qmd
     - summary.qmd
     - references.qmd
