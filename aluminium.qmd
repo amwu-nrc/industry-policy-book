@@ -1,6 +1,10 @@
 # Aluminium
 
-### Aluminium
+### Industry Overview
+
+The aluminium industry in Australia comprises the entire supply chain from Aluminium ore through to manufactured aluminium products. This report specifically focuses on the production of alumina, and the smelting of alumina into aluminium. These two industries employ 6,853 and 3,245 employees respectively.1 Additional research into industries which further process aluminium, such as aluminium rolling, drawing and extruding, and architectural aluminium product manufacturing can be conducted on request.  
+
+This report is intended to provide guidance about current alumina production and aluminium smelting in Australia, including industry trends, and an overview of our current membership in this sector.  
 
 -   The aluminium industry is nominally comprised of:
 
@@ -14,25 +18,101 @@ The aluminium industry in Australia comprises the entire supply chain from Alumi
 
 Financial analysis from IBISWorld indicates that the Alumina Production industry in Australia is worth \$6.7 billion, employing more than 6,800 employees, across only three businesses.  Aluminium smelting is a less concentrated industry, worth \$6.8 billion, employing 3,245 employees across 57 businesses.
 
-## Industry Overview
+Financial analysis from IBISWorld indicates that the Alumina Production industry in Australia is worth \$6.7 billion, employing more than 6,800 employees, across only three businesses as shown in Figure 1.  Aluminium smelting is a less concentrated industry, worth \$6.8 billion, employing 3,245 employees across 57 businesses.  
 
--   is the industry in growth or decline?
+Figure 1: Alumina Production in Australia 2 
 
-    -   employment
+Figure : Aluminium Smelting in Australia 3 
 
-    -   output
+Major players 
 
-    -   revenue
+According to IBISWorld, there are only three companies which make up the alumina production industry in Australia, dominated by Alcoa and Rio Tinto, which comprise over 75% of the market as shown in Table 1. Rio Tinto is also a significant player in the aluminium smelting industry, taking over 40% of the market in 2024 as shown in Table 2. 
+
+Table 1: Alumina Production in Australia 
+
++---------------------+--------------------+------------------+
+| **Company**         | **Market Share**   | **Revenue**      |
+|                     |                    |                  |
+|                     | **(%, 2024)**      | **(\$m, 2024)**  |
++---------------------+--------------------+------------------+
+| Alcoa of Australia  | 46.1               | 3,100            |
++---------------------+--------------------+------------------+
+| Rio Tinto           | 31.5               | 2,120            |
++---------------------+--------------------+------------------+
+| South32             | 22.4               | 1,510            |
++---------------------+--------------------+------------------+
+
+Table 2: Aluminium Smelting in Australia 
+
++---------------------+--------------------+------------------+
+| **Company**         | **Market Share**   | **Revenue**      |
+|                     |                    |                  |
+|                     | **(%, 2024)**      | **(\$m, 2024)**  |
++---------------------+--------------------+------------------+
+| Rio Tinto           | 40.6               | 2,756.7          |
++---------------------+--------------------+------------------+
+| Alcoa of Australia  | 8.4                | 566.9            |
++---------------------+--------------------+------------------+
+| Marubeni Aluminium  | 5.0                | 339.4            |
++---------------------+--------------------+------------------+
+
+Industry Trends  
+
+Australia is the world’s largest producer of bauxite, and exporter of Alumina.4 Significant volatility in global prices due to Covid-19 and increasing cost pressures have impacted the output of the Alumina Production sector. Revenue declined by an annualised 8.5% through the end of 2023-24.5  Falling demand in aluminium smelting in Australia is attributable to 2.4% of this decline.  
+
+In contrast, production of aluminium is anticipated to increase over the next few years as global efforts are made to decarbonise the economy. In order to remain competitive, low carbon alumina production initiatives must be prioritised.   
+
+Aluminium smelting is the downstream process to Alumina production. Aluminium smelting is an energy intensive process which consumes upwards of 10% of the National Electricity Market. Increases in the production of green energy, leading to more competitive prices, has the potential to decarbonise the aluminium smelting industry. Despite Australia’s dominance in alumina production, it is behind China in the production of aluminium.  Inflated energy costs in Europe due to the Russia-Ukraine conflict, and uncertainty regarding carbon pricing policy in Australia contribute to volatility in global prices, and uncertainty in local production.  
+
+Table 3: Alumina Production and Aluminium Smelting Financial Trends 6 
+
++----------------------------------+---------------------+----------------------------+------------------------------+---------------------+
+| **Sector**                       | **Revenue**         | **5-year Revenue Growth**  | **Forecast Revenue Growth**  | **Profit Margin**   |
+|                                  |                     |                            |                              |                     |
+|                                  | **(\$m, 2023/24)**  | **(%)**                    | **(%)**                      | **(\$m, 2024)**     |
++----------------------------------+---------------------+----------------------------+------------------------------+---------------------+
+| Alumina Production in Australia  | 6726.4              | -5.62                      | 0.18                         | 7.0                 |
++----------------------------------+---------------------+----------------------------+------------------------------+---------------------+
+| Aluminium Smelting in Australia  | 6787.4              | 3.20                       | 0.16                         | 4.1                 |
++----------------------------------+---------------------+----------------------------+------------------------------+---------------------+
+
+According to the Australian Aluminium Council7 the sector, in total (including all downstream processing): 
+
+-   Directly employs 21,000 workers 
+
+<!-- -->
+
+-   Indirectly supports over 60,000 families, mostly in regional communities 
+
+<!-- -->
+
+-   Contributes \$18 billion annually to Australia’s GDP, with \$14+ billion from alumina and aluminium 
 
 ## Opportunities
 
--   what and where are the opportunities for growth?
+**tomago, special finance vehicles**
 
--   is there an opportunity to use multi-employer bargaining, same job same pay, or other tools?
+#### Government support 
 
--   is there an opportunity to use FMIA
+Green metals are a priority under the Future Made in Australia plan. The Government has announced a \$2 billion Green Aluminium Production Credit, available from 2028–29, to support Australia’s aluminium smelters to transition to renewable electricity.  
+
+-   Smelters that can show new significant decarbonisation before 2036 can negotiate an emissions-linked credit contract payable per tonne of green aluminium produced for up to 10 years. 
+
+The Government has also committed \$1.5 million over 3 years to influence standards for green aluminium internationally, and to provide technical expertise and definitions for other green metals. 
+
+**Multi-employer bargaining**
+
+The question of multi-employer bargaining and same job same pay are best answered by delegates and organisers. It may be difficult to undertake an approach with smaller businesses as consent is required if a workplace has fewer than 20 employees.
+
+**same job same pay**
+
+Same Job Same Pay applies only to labour hire - rather than two companies that are co-located. Some labour hire companies appear to offer employment in aluminium production. We would need to check our existing density and coverage of aluminium supply chain businesses.
 
 ## Conclusion
+
+Aluminium represents a significant opportunity for us to organize and build density. As a priority area under the FMIA and NRF, the government is likely to support industrial development in this sector. However, issues around rules coverage must be considered, especially if processes are being modernised to the point where our rules no longer cover the kinds of work being undertaken.
+
+**role for delegates and organisers**
 
 -   summary
 

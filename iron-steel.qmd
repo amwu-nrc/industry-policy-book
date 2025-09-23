@@ -20,36 +20,59 @@ However, future growth is predicted as population growth increases pressure on e
 
 ## Opportunities
 
-what and where are the opportunities for growth?
+**what and where are the opportunities for growth?**
 
--   investment is heading towards electric arc furnaces as replacements for blast furnaces. These use significant amounts of electricity, but are more modern, and more efficient, and should replace old/under-invested blast furnaces.
+Most steel production in Australia occurs at Port Kembla in New South Wales, operated by BlueScope and Whyalla in South Australia, operated by GFG Alliance Liberty Steel. The Whyalla steelworks was placed under administration by the South Australian government in February 2025. Both of these operations use blast furnaces to produce steel using iron ore and coal. This process produces significant amounts of carbon dioxide.
 
--   An electric arc furnace also opens the opportunity for manufacturing low-carbon steel. Because you can power the furnace with renewable energy. An electric arc furnace can also use 100% recyclced scrape steel as an input - like what has been set-up in Collie, WA.
+**electric arc furnaces**
 
--   In-place upgrading of blast furnaces to electric arc furnaces probably requires closure of plants. In Wales at Tata Steel, the transition shut down production for about 2 years, resulting in about 2000 people losing their job.
+Modern steel making techniques utilise electric arc furnaces as replacements for blast furnaces. These use significant amounts of electricity, but are more modern and more efficient. An electric arc furnace enables the production of low-carbon steel, including green steel. Electric arc furnaces can produce steel from any combination of recycled scrap steel and direct reduced iron.
 
--   In the UK, a plan to replace two blast furnaces at British Steel Scunthorpe is estimated to impact up to 2,000 steel workers.
+The electric arc furnace in Collie WA is able to produce steel rebar with 80% fewer emissions - from recycled steel.
 
--   These investments have cost over 1.25bn pounds each.
+In-place upgrading of blast furnaces to electric arc furnaces probably requires closure of plants. In Wales at Tata Steel, the transition shut down production for about 2 years, resulting in about 2000 people losing their job.
+
+In the UK, a plan to replace two blast furnaces at British Steel Scunthorpe is estimated to impact up to 2,000 steel workers.
+
+These investments have cost over 1.25bn pounds each.
+
+**direct reduced / green iron**
+
+Making virgin steel using an electric arc furnace requires direct reduced iron. Direct reduced iron can be produced using natural gas/coal, or with hydrogen.
+
+proximity of whyalla steel works and port kembla steel works to iron ore mines provides an opportunity to integrate direct reduced iron production into the process.
+
+green iron production at geraldton???
+
+**process upgrade**
+
+this would require upgrading blast furnaces to electric arc furnaces, or new brownfield developments meaning significant capital investment would be required.
+
+virgin steel production should be seen as a strategic national capability to maintain.
 
 ### Legislation
 
--   There are a lot of businesses operating in iron and steel industries across Australia - more than 3,000.
-
-<!-- -->
+There are more than 3,000 businesses operating in the iron and steel industries across Australia.
 
 -   Multi-employer bargaining
-
 -   Same Job Same Pay
 
 ### Government Funding
 
--   is there an opportunity to use multi-employer bargaining, same job same pay, or other tools?
+The Future Made in Australia Innovation Fund, and the National Reconstruction Fund are the primary sources for government funding for the iron and steel industry.
 
--   is there an opportunity to use FMIA
+support for domestic produced steel (green or grey) can be provided through government purchase contracts and procurement. Demand side interventions are possibly the only way to get this kind of production from the speculation stage to actually happening. Because capital investment won't come without a guaranteed buyer. A demand side policy might look like a significant infrastructure build/development using australian produced steel.
+
+#### Future Made in Australia
+
+-   \$750 million to Green Metals including iron, steel, alumina and aluminium.
+
+#### National Reconstruction Fund
+
+-   investment in commercial opportunities for manufacturing products related to components of wind turbines, batteries, solar panels, and hydrogen electrolysers
+
+-   investment in value-adding activities including refining materials for the use in the above.
 
 ## Conclusion
 
 -   summary
-
--   any other issues
