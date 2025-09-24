@@ -2,26 +2,120 @@
 
 ## Industry Overview
 
--   is the industry in growth or decline?
+The commercial airline industry employs approximately **33,500 workers** across domestic and international carriers in Australia, including charter services, pilot training, corporate jets, and regional aircraft operators.  
 
-    -   employment
+However, this industry mapping report focuses exclusively on those who work in Aircraft Manufacturing and Repair Services, which employs between **7,3001** by the ABS/Census count and **12,5002** workers by the IBISWorld count. Given the impact on the commercial aviation industry from the Covid-19 pandemic, the 2021 Census is likely to represent a significant undercount of employment.  
 
-    -   output
+The commercial airline industry faced significant challenges during the Covid-19 pandemic, with reduced flights. The industry has since recovered, with revenue now reaching close to pre-pandemic levels.  This recovery, combined with Defence spending, has increased the demand for aircraft maintenance and repair workers.  
 
-    -   revenue
+This report is intended to provide guidance about current aircraft manufacturing in Australia, including industry trends, and an overview of our current membership in this sector.  
+
+Domestic airline operation in Australia also contributes to the local workforce for Aircraft Manufacturing and Repair Services – with Qantas employing about 3,300 personnel in their engineering and maintenance branch.  
+
+**Additional Maintenance and Ground Support Employers (AMWU-relevant):**  
+
+-   **Aviat Global** – MRO and logistics based at Melbourne Jet Base.  
+
+<!-- -->
+
+-   **Airflite** – MRO and structural services; active in Perth, Melbourne, and Gold Coast.  
+
+<!-- -->
+
+-   **Sigma Aerospace** – Line maintenance for regional aviation; based in NSW and QLD.  
+
+<!-- -->
+
+-   **Flight Maintenance Australia** – MRO services across various aircraft.  
+
+<!-- -->
+
+-   **Aircraft Maintenance Services Australia (AMSA)** – Labour hire for aircraft engineering projects.  
+
+<!-- -->
+
+-   **Hopkins Aviation Services** – Maintenance for general aviation and corporate aircraft.  
+
+<!-- -->
+
+-   **Aircraft Maintenance Australia** – Based in North Queensland (Mareeba, Cairns).  
+
+<!-- -->
+
+-   **Wind Turbine Services Australia** – Though primarily in renewables, also offers aviation rope access support.  
+
+ **Specialised Aviation Support:**  
+
+-   **Aeronautical Engineers Australia (AEA)** – Engineering and modification consultancy with offices in five states.  
+
+<!-- -->
+
+-   **Pearl Aviation** – Charter and ground support services, based in Darwin.  
+
+<!-- -->
+
+-   **Textron Aviation Service Centers** – Maintenance for Cessna and Beechcraft aircraft; sites in Melbourne, Perth, and Gold Coast.   
+
+**Top Commercial Airlines:**  
+
+-   **Qantas Group** (Qantas + Jetstar): Over 20,000 employees; hubs in Sydney, Melbourne, Brisbane.  
+
+<!-- -->
+
+-   **Virgin Australia**: HQ in Brisbane; strong presence in east coast cities.  
+
+<!-- -->
+
+-   **Alliance Airlines**: Maintenance base in Townsville; expanding FIFO contracts.  
+
+<!-- -->
+
+-   **Regional Express (Rex)**: Active in NSW, SA, and regional QLD.  
+
+**General Aviation Examples:**  
+
+-   **Corporate Jet Services** (Sydney)  
+
+<!-- -->
+
+-   **Bristow Helicopters Australia** (WA offshore services)  
+
+<!-- -->
+
+-   **Basair Aviation College, Flight Training Adelaide** – training-focused employers with maintenance teams.  
 
 ## Opportunities
+
+Increased demand for domestic and international travel leads to growth through increased requirements for maintenance and repair services.
+
+The future of Rex - The government has pledged to buy Rex if no buyer is able to be found. The AFR reporting as of 24th September indicates that a US firm Air T may purchase. Rex's planes are Saabs, which are no longer being made. New planes might need to be purchased.
+
+Other opportunities include in the manufacturing of sustainable aviation fuel, supported by the low carbon liquid fuels stream of FMIA, and the newly announced Cleaner Fuels Program. The production of LCLF is not expected until 2029. Sustainable aviation fuels are made using non-food crops et al. which are already exported from Australia - including sorghum, canola, sugar, and waste products.
 
 -   what and where are the opportunities for growth?
 
 -   is there an opportunity to use multi-employer bargaining, same job same pay, or other tools?
 
--   is there an opportunity to use FMIA
+**government support**
+
+significant government support is available in the production of low-carbon/sustainable aviation fuels, through the \$250 million Low Carbon Liquid Fuels stream of FMIA, and the recent announcement of the Cleaner Fuels Program.
+
+-   \$250 million to Low Carbon Liquid Fuels (LCLF) including sustainable aviation fuels and renewable diesel.
+
+-   announcement of \$1.1 billion over 10 years through the Cleaner Fuels Program to stimulate private investment in onshore production of low carbon liquid fuels, including renewable diesel and sustainable aviation fuel.
+
+<!-- -->
+
+-   
 
 ## Conclusion
 
--   summary
+-   the recovery of the commercial aviation sector following the pandemic has increased the demand for aircraft maintenance and repair workers.
 
--   any other issues
+-   Qantas are obviously a big player
 
-## 
+-   sustainable aviation fuel manufacturing
+
+-   organising opportunities
+
+    -   Brisbane, Townsville, Sydney, Melbourne, Perth – all sites with significant aircraft maintenance activity and mixed employer presence.   

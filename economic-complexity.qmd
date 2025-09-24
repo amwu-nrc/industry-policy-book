@@ -116,6 +116,7 @@ Diversification analysis is the first and most basic method available. It looks 
 ```{r}
 #| label: tbl-capabilities
 #| tbl-cap: Employment capabilities, Whyalla
+#| tbl-cap-location: top
 lga_indp3 <- read_complexitydata("lga_indp3", export_dir = "data") |> 
   mutate(lgat = sum(count),.by = lga) |> 
   mutate(it = sum(count), .by = indp) |> 

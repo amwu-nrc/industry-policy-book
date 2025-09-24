@@ -2,21 +2,37 @@
 
 ## Industry Overview
 
--   is the industry in growth or decline?
+The rail industry comprises railway rolling stock manufacturing and repair services, as well as iron smelting and steel manufacturing which can produce the steel required to build tracks. The Australian rail industry contributed around 1.5% to the national economy in 2019, employing over 165,000 full-time equivalent people. This includes around 5,900 people in rolling stock manufacturing.
 
-    -   employment
-
-    -   output
-
-    -   revenue
+According to IBISWorld, railway equipment manufacturing and repair in Australia employs almost 10,000 people, up almost 8% since 2020, and is forecast to continue to grow by about 2% into 2030. Revenue has also grown since 2020 by about 0.5% to \$4.8bn, and is also forecast to grow by 1.5% into 2030. This growth has been driven by major rail infrastructure projects like the Melbourne Metro Tunnel and Sydney Metro. The demand induced by government spending has resulted in increasing innovation and opportunities for new business growth. The number of businesses in Australia supporting this sector has grown by almost 2% since 2020. Outstanding commitments of \$155bn through to 2030 has boosted demand for new rolling stock (both heavy and light rail), as well as ongoing repair and maintenance services.
 
 ## Opportunities
 
+**continued infrastructure investment**
+
+-   emphasis on energy-efficient and sustainable transport infrastructure
+
+-   upgrading of existing rolling stock, including electrification (it might only be SA that still has diesel trains?), automation and signalling upgrades.
+
+-   tram / track upgrades of vic light rail.
+
+<!-- -->
+
 -   what and where are the opportunities for growth?
 
--   is there an opportunity to use multi-employer bargaining, same job same pay, or other tools?
+**same job same pay**
 
--   is there an opportunity to use FMIA
+One to watch, however, I foresee that contractors may be better paid/taken care of in some instances (RE: UGL v Sydney Trains)
+
+Very likely to be areas outside our core coverage – rail infrastructure more likely to use labour hire than rail vehicle maintenance.
+
+That said, manufacturing of rail infrastructure (eg the actual rail, fastenings etc) is just as likely as ordinary manufacturing to use labour hire
+
+**national reconstruction fund**
+
+The National Reconstruction Fund Corporation may invest in the manufacture of vehicles and parts for rail including the parts and components for rail infrastructure such as sleepers.
+
+-   
 
 ## Conclusion
 

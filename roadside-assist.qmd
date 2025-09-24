@@ -2,17 +2,27 @@
 
 ## Industry Overview
 
--   is the industry in growth or decline?
+One of the main challenges in assessing the roadside assistance sector is the lack of clear and consistent data. Much of the publicly available information either examines the broader towing sector—which includes both roadside assistance and post-crash vehicle towing—or comes from firms that operate across multiple segments such as roadside assistance, insurance, and towing. This makes it difficult to separate and identify the true sources of profits. As a result, the analysis here draws primarily on sector-wide towing data and individual company reports. While this data is not perfect, it represents the most reliable information currently available. 
 
-    -   employment
+Across the towing segment, revenue has grown steadily at a rate of around 2% since 2012, with some periods of larger fluctuations. It is expected that this trend will continue till the end of the decade. Naturally, the sectors success is largely driven by the number of cars on the road, and whether one breaks down or feels that such a risk exists and thus should purchase a subscription. The other factor affecting the sector is vehicle reliability, as cars improve it is likely that less breakdowns will occur, whilst further, EV adoption, EVs having fewer moving parts, are also likely to disrupt the market. It should also be noted that employment in the sector has grown steadily in recent years, in line with demand for service and revenue, it is expected that this trend will continue. With 3,761 people forecast to be employed within the towing segment by 2030. 
 
-    -   output
-
-    -   revenue
+The primary risk to continued employment growth in the sector is the rise of EVs, and the extent to which their less complex construction will reduce demand for services as breakdowns will become less common. Although, EV charging issues could create a new source of demand within the sector
 
 ## Opportunities
 
 -   what and where are the opportunities for growth?
+
+EV skills 
+
+More cars – thus more jobs  
+
+**multi-employer bargaining**
+
+There is potential for a National Agreement; given that the old school Roadside Assistance networks are largely state based. 
+
+**same job same pay**
+
+Mechanics have been prolific in recent LHAs that we’ve been consulted on, noting that there is a skills shortage scrutiny should be applied to ensure, particularly for migrant workers, that they are not being ripped off.
 
 -   is there an opportunity to use multi-employer bargaining, same job same pay, or other tools?
 

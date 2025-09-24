@@ -2,23 +2,61 @@
 
 ## Industry Overview
 
--   is the industry in growth or decline?
+Wind tower installation and maintenance is a cyclical but ongoing industry in Australia, with workers moving between construction, refurbishment, and servicing roles.   
 
-    -   employment
+In late 2024 The Australia Institute published an extensive report looking at an industrial strategy for manufacturing wind towers in Australia, it estimated a national workforce in wind tower assembly and maintenance of 3,000 to 4,000 workers.
 
-    -   output
+Of this workforce, a portion (estimated 1,500–2,000 according to our rules) perform trades within AMWU’s coverage—mechanical fitters, riggers, welders, and general maintenance technicians.    
 
-    -   revenue
+Wind energy manufacturing represents a prime opportunity to apply the new policy tools of the federal government’s Future Made in Australia manufacturing strategy.  
+
+This is a difficult industry to map because the data available does not clearly distinguish between wind farms, and tower manufacturing and broader heavy manufacturing. Further research and consultation with organisers and delegates will improve our understanding of opportunities and risks.
+
+Wind turbine component manufacturing is heavily concentrated geographically. China accounts for well over half of all tower manufacturing capacity, with the remainder spread reasonably evenly between Europe, North America and the Asia Pacific.**4** Table 2 is produced by Phil Toner for The Australia Institute.
+
+A strong pipeline of wind farm projects points to growth in industry revenue and employment.
 
 ## Opportunities
 
--   what and where are the opportunities for growth?
+The government is the central driver of wind farms investment in Australia – and so demand for towers is directly dependent on continuous and consistent government-led renewable energy targets. As such, local content requirements should be mandated, as they provide the greatest opportunity for industry and supply chain development, and thus membership growth.
 
--   is there an opportunity to use multi-employer bargaining, same job same pay, or other tools?
+Growth expected in unscheduled maintenance, which has the highest cost burden – a driver of long-term staffing.   
 
--   is there an opportunity to use FMIA
+The workforce includes mechanical fitters, welders, riggers, electricians (some under ETU), rope access technicians – strong overlap with AMWU eligibility.   
+
+Technology shift toward AI/drones will change the skill mix but not eliminate hands-on maintenance.   
+
+Significant workforce turnover across projects provides openings for outreach.   
+
+### Multi-employer Bargaining  {.unnumbered}
+
+### Same Job Same Pay
+
+**multi-employer bargaining**
+
+**same job same pay**
+
+**government support**
+
+The Future Made in Australia Innovation Fund administered by ARENA will provide up to \$1.5 billion in grant funding to support pre-commercial innovation, demonstration and deployment of renewable energy and low emission technologies, to support Australia’s transition to a net zero economy. 
+
+The fund will split grant funding across three priority areas: 
+
+-   \$750 million to Green Metals including iron, steel, alumina and aluminium. 
+
+<!-- -->
+
+-   \$500 million to Clean Energy Technology Manufacturing to enable development of technologies seeking to alleviate critical supply chain challenges facing the clean energy transition. 
+
+<!-- -->
+
+-   \$250 million to Low Carbon Liquid Fuels (LCLF) including sustainable aviation fuels and renewable diesel. 
+
+In April 2025 the Victorian government released ‘Offshore Wind Energy Implementation Statement 4’.**7** After a delay it has begun it’s ROI process for license holders. The following locations have been identified as possible locations for offshore wind in Victoria.  
 
 ## Conclusion
+
+There is a risk of non-union firms growing and undercutting firms with EBAs – need EBAs with new entrants and sub-contractors. 
 
 -   summary
 
