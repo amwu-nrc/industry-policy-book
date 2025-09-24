@@ -21,6 +21,7 @@ book:
       - economic-complexity.qmd
       - procurement.qmd
       - future-of-work.qmd
+      - apprentices.qmd
     - part: emerging-industries.qmd
       chapters:
       - iron-steel.qmd
